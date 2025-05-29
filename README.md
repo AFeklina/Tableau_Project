@@ -46,4 +46,3 @@ The analysis was conducted in Tableau and divided into three parts:
 
 ## Notes
 This project was completed as part of my training in data visualization and business analytics.  
-The data is fictional and used for educational purposes only.
